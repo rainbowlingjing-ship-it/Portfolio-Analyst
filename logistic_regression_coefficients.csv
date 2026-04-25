@@ -1,0 +1,36 @@
+feature,coefficient
+employment_status_Unemployed,0.558159184375445
+credit_utilization,0.41062293407284317
+past_due_count,0.31175561082384334
+loan_amount,0.30837309371436467
+debt_to_income,0.30322345071669615
+loan_purpose_Debt consolidation,0.26493027556675386
+home_ownership_Rent,0.259696312273401
+credit_inquiries,0.25272172291927836
+region_Alberta,0.24887189400278198
+home_ownership_Other,0.1577838266793026
+region_Quebec,0.12180589078656702
+region_Other,0.10294097774082607
+high_dti_flag,0.08077911162046733
+low_credit_score_flag,0.05460899727191135
+loan_purpose_Education,0.04715436349622453
+short_employment_flag,0.0070736491070134445
+num_open_accounts,-0.014504628842672465
+loan_purpose_Auto,-0.04484481489086804
+annual_income,-0.0762143551106525
+loan_purpose_Home improvement,-0.09903424256719466
+employment_status_Part-time,-0.13289244197158318
+account_age_months,-0.144817732529515
+recent_delinquency_flag,-0.15091125066261873
+employment_status_Employed,-0.1630246467861207
+high_utilization_flag,-0.17915986551063162
+region_Ontario,-0.18008335972508366
+home_ownership_Mortgage,-0.19080748578554496
+loan_purpose_Personal,-0.19155585084963359
+employment_years,-0.23900968319618854
+home_ownership_Own,-0.2500229224118616
+loan_to_income,-0.2802245512017189
+employment_status_Self-employed,-0.2855923648624462
+credit_score,-0.30335368882963143
+region_British Columbia,-0.31688567204979096
+months_since_last_delinquency,-0.5705852803939274
