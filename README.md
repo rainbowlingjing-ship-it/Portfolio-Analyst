@@ -12,6 +12,7 @@ The model includes:
 * Out-of-time (OOT) validation
 * Backtesting and calibration analysis
 * Population Stability Index (PSI) monitoring
+* Graph Visualization 
 
 ## Dataset
 
@@ -19,7 +20,7 @@ Simulated credit risk dataset with borrower financial and behavioral characteris
 
 ## Tools
 
-* Python (pandas, numpy, scikit-learn)
+* Python (pandas, numpy, scikit-learn, matplotlib)
 * Logistic Regression
 * Risk modeling techniques (AUC, KS, PSI)
 
